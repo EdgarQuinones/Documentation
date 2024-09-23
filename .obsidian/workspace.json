@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "258859ee1e96403c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2418cd1d97f5e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d31a0ee15b69ff92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/OSEC/What is OSEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bf5e2b6f37118d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ee96880edd7cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca583925d75e2f29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a1060a9041cba6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a96cec259c87e168",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f864cd804c76fa44",
+    "type": "split",
+    "children": [
+      {
+        "id": "573b90872be07a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eaf9c12c769d145",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyber Security/OSEC/What is OSEC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f680e2a15f19abac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyber Security/OSEC/What is OSEC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f94cfd80d506230",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22537ebc5fb8afc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber Security/OSEC/What is OSEC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d31a0ee15b69ff92",
+  "lastOpenFiles": [
+    "README.md",
+    "Cyber Security/OSEC/What is OSEC.md",
+    "Cyber Security/OSEC",
+    "Game Development",
+    "Cyber Security",
+    "Software Engineering"
+  ]
+}
