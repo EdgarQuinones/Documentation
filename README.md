@@ -1,6 +1,5 @@
 # Documentation
-This repository will document all competitions, projects, clubs, and any other activities I participate in. I will be recording:
-Notes idea from my dad: Document everything we do
+This repository will document all competitions, projects, clubs, and other activities I participate in. I will be recording:
 - Hours Worked
 - Detail on Activities
 - Status updates
